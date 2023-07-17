@@ -1,0 +1,46 @@
+body{
+
+    background-image: url(background_brawliversary4.png);
+
+   }
+   
+   ul{
+   
+       list-style-type:none;
+       padding:0px;
+       background-color:black;
+       overflow:hidden;
+   }
+   
+   li {
+       float:left;
+       border-right: 1px solid white;
+   }
+   
+   li a {
+       display:block;
+       padding: 10px;
+       text-decoration: none;
+       font-size:20px;
+       color:white;
+       text-align:left;
+   }
+   
+   li a:hover{
+       background-color:rgb(43, 43, 43);
+       color:yellow;
+   
+   }
+a{
+    text-align: center;
+}
+th{
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
+img{
+    width:80px;
+    height:80px;
+}
